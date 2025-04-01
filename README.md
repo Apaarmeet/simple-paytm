@@ -4,7 +4,7 @@
 A full-stack Paytm-like application that enables secure user authentication and money transfers. Built using **MERN stack** (MongoDB, Express.js, React, Node.js) with **JWT authentication** for security.
 
 ## 🌍 Live Demo  
-👉 **[Visit the App](#)** (Deploy and add link if available)
+👉 **[Visit the App](#)** 
 
 ## 🚀 Features  
 ✅ **User Authentication** – Sign-up, sign-in, and secure account verification using JWT  
